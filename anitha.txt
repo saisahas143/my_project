@@ -1,0 +1,3 @@
+Hi are how are you.
+
+This is my first git repository through linux.
